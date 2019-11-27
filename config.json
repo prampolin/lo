@@ -1,0 +1,14 @@
+{
+    "config_game": {
+        "name": "config game",
+        "author": "vitor prampolin",
+        "version": 1.0
+    },
+    "lotofacil": {
+        "total": 25,
+        "bet": 15,
+        "frame": [1,2,3,4,5,6,10,11,15,21,22,23,24,25],
+        "prime": [2,3,5,7,11,13,17,19,23],
+        "fibonacci":[1,2,3,5,8,13,21]
+    }
+}
